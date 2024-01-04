@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Austin Mohr"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/dexter.png"
   bio    : "Test ePortfolio."
   links:
     - label: "Website"
